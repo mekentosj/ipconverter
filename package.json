@@ -1,7 +1,7 @@
 {
   "name": "ipconverter",
-  "version": "0.0.1",
-  "description": "",
+  "version": "0.0.2",
+  "description": "Ipconverter easily converts IP addresses to longs and viceversa.",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha -t 0 test/*_test.js"
